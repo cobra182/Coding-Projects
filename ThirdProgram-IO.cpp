@@ -24,6 +24,12 @@
 
 using namespace std;
 	
+int disclamer(int a=25)
+{
+	
+	return a;	
+}
+	
 int main()
 {
 	const char newline = '\n';
@@ -31,7 +37,7 @@ int main()
 	int age;
 	float postcode;	
 	
-
+	
 	cout << "Please enter your surname:";
 	getline (cin,mystring);
 	cout << mystring ;
@@ -48,9 +54,7 @@ int main()
 	
 		cout << "You are really old....." << newline;
 		else
-		cout << "You are too young to play." << newline;
-
-
+		
 while (age < 25)
 {
 		cout << "You are too young to play....Sorry go away." << newline;

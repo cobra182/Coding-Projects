@@ -23,9 +23,10 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=192;C++;0;EUTF-8;1;1;0;%2Fhome%2Fbrett%2FDocuments%2FCoding%20Projects%2FFirstProgramLongTime.cpp;0;4
-FILE_NAME_1=1286;C;0;EUTF-8;1;1;0;%2Fusr%2Finclude%2Fc%2B%2B%2F4.8%2Fbits%2Fc%2B%2B0x_warning.h;0;4
+current_page=2
+FILE_NAME_0=189;C++;0;EUTF-8;1;1;0;%2Fhome%2Fbrett%2FDocuments%2FCoding%20Projects%2FFirstProgramLongTime.cpp;0;4
+FILE_NAME_1=76;C++;0;EUTF-8;1;1;0;%2Fhome%2Fbrett%2FDocuments%2FCoding%20Projects%2FSecondProgram.cpp;0;4
+FILE_NAME_2=1368;C++;0;EUTF-8;1;1;0;%2Fhome%2Fbrett%2FDocuments%2FCoding%20Projects%2FThirdProgram-IO.cpp;0;4
 
 [VTE]
 last_dir=/home/brett
