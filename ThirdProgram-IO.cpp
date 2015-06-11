@@ -44,6 +44,21 @@ int main()
 	cout << age ;
 	cout << newline;
 	
+	if (age > 25)
+	
+		cout << "You are really old....." << newline;
+		else
+		cout << "You are too young to play." << newline;
+
+
+while (age < 25)
+{
+		cout << "You are too young to play....Sorry go away." << newline;
+		(age++);
+	}
+		
+
+	
 	cout << "Please enter your Australian/United States postal code:";
 	getline (cin,mystring);
 	stringstream(mystring) >> postcode;
