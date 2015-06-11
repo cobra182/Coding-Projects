@@ -48,7 +48,7 @@ int main()
 	getline (cin,mystring);
 	stringstream(mystring) >> postcode;
 	cout << postcode << endl;
-	cout << newline;
+	
 	
 	
 	return 0;
